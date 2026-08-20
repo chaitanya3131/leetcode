@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chaitanya3131/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/chaitanya3131/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/chaitanya3131/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chaitanya3131/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/chaitanya3131/leetcode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/chaitanya3131/leetcode/tree/master/1051-height-checker) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/chaitanya3131/leetcode/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/chaitanya3131/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaitanya3131/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
