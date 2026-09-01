@@ -1,27 +1,31 @@
 class Solution {
 
-    public boolean palindrome(int i,int j,String s)
+    public boolean palin(String s,int i,int j)
     {
-         while(i<j)
-         {
-            if(s.charAt(i)!=s.charAt(j))
+        while(i<j)
+        {
+             if(s.charAt(i)!=s.charAt(j))
             {
                 return false;
             }
-            i++;
-            j--;
-         }
-         return true;
+            else{
+                i++;
+                j--;
+            }
+
+        }
+        return true;
     }
+
     public boolean validPalindrome(String s) {
-        
+
         int i=0;
         int j=s.length()-1;
         while(i<j)
         {
             if(s.charAt(i)!=s.charAt(j))
             {
-                return palindrome(i+1,j,s) || palindrome(i,j-1,s);
+                return palin(s,i+1,j) || palin(s,i,j-1);
 
             }
             else{
@@ -29,8 +33,10 @@ class Solution {
                 j--;
             }
         }
+
         return true;
 
 
+        
     }
 }
