@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chaitanya3131/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya3131/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chaitanya3131/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/chaitanya3131/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chaitanya3131/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chaitanya3131/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chaitanya3131/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya3131/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/chaitanya3131/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chaitanya3131/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanya3131/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya3131/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaitanya3131/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya3131/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
