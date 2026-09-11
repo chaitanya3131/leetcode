@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanya3131/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chaitanya3131/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaitanya3131/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chaitanya3131/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chaitanya3131/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/chaitanya3131/leetcode/tree/master/1051-height-checker) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chaitanya3131/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chaitanya3131/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chaitanya3131/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanya3131/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chaitanya3131/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
 |  |
 | ------- |
