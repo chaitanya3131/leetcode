@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chaitanya3131/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chaitanya3131/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaitanya3131/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/chaitanya3131/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/chaitanya3131/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/chaitanya3131/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chaitanya3131/leetcode/tree/master/1051-height-checker) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chaitanya3131/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/chaitanya3131/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanya3131/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/chaitanya3131/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chaitanya3131/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
