@@ -22,6 +22,6 @@ class Solution {
         }
         s.next=s.next.next;
         return head;
-        
+
     }
 }
