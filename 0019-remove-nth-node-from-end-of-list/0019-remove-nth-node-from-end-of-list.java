@@ -13,20 +13,16 @@ class Solution {
         ListNode s=head,f=head;
         for(int i=1;i<=n;i++)
         {
-            if(f==null) 
-            {
-                return null;
-            }
-            else{
-                  f=f.next;
-            }
-          
+            f=f.next;
         }
-        if(f==null) return head.next;
+        if(f==null)
+        {
+            return head.next;
+        }
         while(f.next!=null)
         {
-            f=f.next;
             s=s.next;
+            f=f.next;
         }
         s.next=s.next.next;
         return head;
