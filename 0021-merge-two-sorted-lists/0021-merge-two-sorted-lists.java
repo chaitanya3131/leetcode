@@ -30,7 +30,7 @@ class Solution {
         {
             k.next=j;
         }
-        else{
+        else {
             k.next=i;
         }
         return dummy.next;
