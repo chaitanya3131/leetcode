@@ -11,9 +11,10 @@
 class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode d1=new ListNode(-1);
-        ListNode d2=new ListNode(-1);
-        ListNode t1=d1,t2=d2;
+        ListNode d2 =new ListNode(-1);
         ListNode t=head;
+        ListNode t1=d1,t2=d2;
+
         while(t!=null)
         {
             if(t.val<x)
