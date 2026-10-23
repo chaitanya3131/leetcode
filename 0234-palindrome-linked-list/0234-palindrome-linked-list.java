@@ -10,7 +10,7 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
+        ArrayList <Integer> arr=new ArrayList<> ();
         ListNode temp=head;
         while(temp!=null)
         {
@@ -23,6 +23,7 @@ class Solution {
         {
             int a=arr.get(i);
             int b=arr.get(j);
+
             if(a!=b)
             {
                 return false;
