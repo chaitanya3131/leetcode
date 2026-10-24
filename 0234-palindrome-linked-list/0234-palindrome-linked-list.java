@@ -20,8 +20,8 @@ class Solution {
             c=f;
         }
         return p;
+
     }
-    
     public boolean isPalindrome(ListNode head) {
         ListNode s=head,f=head;
         while(f.next!=null && f.next.next!=null)
@@ -29,16 +29,13 @@ class Solution {
             s=s.next;
             f=f.next.next;
         }
-        ListNode head2=s.next;
-        s.next=null;
-        ListNode i=head,j=head2;
-        head2=rev(head2);
-        j=head2;
-        while(i!=null && j!=null)
+        ListNode h1=head;
+        ListNode h2=rev(s.next);
+        while(h1!=null && h2!=null)
         {
-            if(i.val!=j.val) return false;
-            i=i.next;
-            j=j.next;
+            if(h1.val!=h2.val) return false;
+            h1=h1.next;
+            h2=h2.next;
         }
         return true;
         
