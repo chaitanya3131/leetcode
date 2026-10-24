@@ -12,19 +12,18 @@ class Solution {
     public int len(ListNode head)
     {
         ListNode temp=head;
-        int count=0;
+        int c=0;
         while(temp!=null)
         {
             temp=temp.next;
-            count++;
+            c++;
         }
-        return count;
+        return c;
     }
     public ListNode swapPairs(ListNode head) {
         ListNode d1=new ListNode(-1);
         ListNode d2=new ListNode(-1);
-
-        ListNode t1=d1,t2=d2,t=head;
+        ListNode t=head,t1=d1,t2=d2;
         int n=len(head);
         for(int i=1;i<=n;i++)
         {
@@ -33,7 +32,8 @@ class Solution {
                 t1.next=t;
                 t1=t1.next;
             }
-            else{
+            else
+            {
                 t2.next=t;
                 t2=t2.next;
             }
@@ -41,7 +41,6 @@ class Solution {
         }
         t1.next=null;
         t2.next=null;
-
         t1=d1.next;
         t2=d2.next;
         ListNode d=new ListNode(-1);
@@ -55,6 +54,8 @@ class Solution {
             t=t1;
             t1=n1;
             t2=n2;
+            
+            
         }
         if(t1!=null)
         {
@@ -64,6 +65,6 @@ class Solution {
             t.next=t2;
         }
         return d.next;
-
+        
     }
 }
