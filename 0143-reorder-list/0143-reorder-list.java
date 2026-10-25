@@ -31,15 +31,17 @@ class Solution {
         ListNode h2=s.next;
         s.next=null;
         h2=rev(h2);
-        ListNode temp=head,temp2=h2;
-        while(temp!=null && temp2!=null)
+        ListNode t1=head,t2=h2;
+        while(t1!=null && t2!=null)
         {
-            ListNode n1=temp.next;
-            ListNode n2=temp2.next;
-            temp.next=temp2;
-            temp2.next=n1;
-            temp=n1;
-            temp2=n2;
+            ListNode n1=t1.next;
+            ListNode n2=t2.next;
+            t1.next=t2;
+            t2.next=n1;
+            t1=n1;
+            t2=n2;
         }
+
+        
     }
 }
